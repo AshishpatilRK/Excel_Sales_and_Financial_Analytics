@@ -7,7 +7,7 @@ Project objective: The purpose of sales analytics is to review AtliQ Hardware's 
 - Role of reports: Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
  ![Customer Performance Report](https://github.com/AshishpatilRK/Excel_Sales_and_Financial_Analytics/blob/main/Imges/Customer%20Performance%20Report.png)
- ![Market Performance vs Target Report](https://github.com/user-attachments/assets/587984f9-71b4-4f54-a69c-d335a208881c)
+ ![Market Performance vs Target Report](https://github.com/AshishpatilRK/Excel_Sales_and_Financial_Analytics/blob/main/Imges/Market%20Performance%20vs%20Target%20Report.png)
 
 ## Finance Report :
 Project objective: The purpose of Financial analytics is to evaluate economic trends, set financial policies, build long-term plans for business activity, and identify projects or companies for investment.
@@ -16,8 +16,8 @@ Project objective: The purpose of Financial analytics is to evaluate economic tr
 - Importance of analyzing Finance data: Benchmarking against industry peers and previous periods foundation for budgeting and forecasting.
 - Role of reports: Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
-![Profit and Loss for Market Report](https://github.com/user-attachments/assets/7ca45864-1883-4fa8-8c4f-92c3152cdf83)
-![GM % by Quarters](https://github.com/user-attachments/assets/2a5455e3-6ad9-4357-9834-5c6d74cc11a9)
+![Profit and Loss for Market Report](https://github.com/AshishpatilRK/Excel_Sales_and_Financial_Analytics/blob/main/Imges/Profit%20and%20Loss%20for%20Market%20Report.png)
+![GM % by Quarters](https://github.com/AshishpatilRK/Excel_Sales_and_Financial_Analytics/blob/main/Imges/GM%20%25%20by%20Quarters.png)
 
 
 
